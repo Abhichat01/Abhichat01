@@ -10,8 +10,10 @@
 - 📫 Reach me at **abhishekchatterjee.c@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with Me
 <p align="left">
+  <a href="https://twitter.com/kindo_tk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kindo_tk" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-chatterjee-397304232" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tufan-kundu-577945221" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhichat01&show_icons=true&locale=en&layout=compact" alt="abhichat01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhichat01&show_icons=true&locale=en" alt="abhichat01" /></p>
+![image_123650291](https://github.com/user-attachments/assets/d8ad674e-1a66-405a-a6ff-7ac37252c7ce)
