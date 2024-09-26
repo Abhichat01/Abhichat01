@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data science from Intellipaat.**
 
-- 📫 How to reach me **abhiabhishekchatterjee@gmail.com**
+- 📫 How to reach me **abhishekchatterjee.c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
