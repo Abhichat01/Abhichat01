@@ -6,9 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhichat01&label=Profile%20views&color=0e75b6&style=flat" alt="abhichat01" /> </p>
 
-- 🌱 I’m currently learning **Data science from Intellipaat.**
+### 🌟 About Me
+- 🌱 Currently learning **Data Science**
+- 👯 Open to collaborate on **Data Science Projects**
+- 📫 Reach me at **abhishekchatterjee.c@gmail.com**
 
-- 📫 How to reach me **abhishekchatterjee.c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
