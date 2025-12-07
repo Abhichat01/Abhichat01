@@ -90,11 +90,11 @@
 ## 📫 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/abhishek-kumar-chatterjee-979394289" target="_blank">
+<a href="[https://www.linkedin.com/in/abhishek-kumar-chatterjee-979394289](https://www.linkedin.com/in/abhishek-chatterjee-397304232)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:abhishekkchatterjee15@gmail.com" target="_blank">
+<a href="mailto:abhishekchatterjee.c@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
